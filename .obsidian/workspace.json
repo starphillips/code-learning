@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "e8e56643601c2a47",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1fc04b1ff680363",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63c20a92c20b5f5a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "8bad4725c6516d54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS-TS/useState.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "useState"
+            }
+          },
+          {
+            "id": "f76e6583703be336",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Go/21. Select.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "21. Select"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c43c3cdf8db4e6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "20aab13f2ddaeaf3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50224721727bc1cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a32decc385c29921",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a28e20dbaa4c6d90",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2ec45dbcad9051f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8525c96527837027",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e9b31c2138f6a4f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Go/Basics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Basics"
+            }
+          },
+          {
+            "id": "b09f899c4fb2a523",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Go/Basics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Basics"
+            }
+          },
+          {
+            "id": "7c6c6bc02feb416c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "67c4b2dcb2086061",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Go/Basics.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Basics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f76e6583703be336",
+  "lastOpenFiles": [
+    "Go/18. Type params.md",
+    "Go/19. Go routines.md",
+    "Go/20. Channels.md",
+    "Go/21. Select.md",
+    "Go/17. Readers.md",
+    "Go/16. Errors.md",
+    "Go/15. Stringers.md",
+    "Go/14. Types.md",
+    "Go/13. Interfaces.md",
+    "Go/12. Receivers.md",
+    "img/function-syntax.png",
+    "Go/11. Methods.md",
+    "img/syntax-differences.png",
+    "Go/10. Closure.md",
+    "Go/5. Maps.md",
+    "Go/1a. Formatting.md",
+    "Go/9. func Values.md",
+    "img/formatting.png",
+    "img",
+    "New folder",
+    "Go/8. Range.md",
+    "Go/7. Pointers.md",
+    "Go/6. Slices.md",
+    "Go/3. Loops.md",
+    "Go/4. Arrays.md",
+    "Go/2. If statements.md",
+    "Go/1. Basics.md",
+    "JS-TS/useState.md",
+    "Go",
+    "JS-TS",
+    "Welcome.md"
+  ]
+}
