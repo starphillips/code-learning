@@ -21,10 +21,10 @@ When state gets more complex, it can slow down your system to define a state lik
 
 2. Function Version:
 
-`useState(() =>){
+`useState(() =>{
 }`
 
-`useState(() => countInitial){
+`const [count, setCount] = useState(countInitial()) {
 }` 
 function that calls the function
 

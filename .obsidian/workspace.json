@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go/21. Select.md",
+                "file": "JS-TS/useEffect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21. Select"
+              "title": "useEffect"
             }
           }
         ],
@@ -196,10 +196,14 @@
   },
   "active": "f76e6583703be336",
   "lastOpenFiles": [
+    "Business Analyst.md",
+    "JS-TS/useEffect.md",
+    "JS-TS/useState.md",
+    "JS-TS/Basics.md",
+    "Go/21. Select.md",
     "Go/18. Type params.md",
     "Go/19. Go routines.md",
     "Go/20. Channels.md",
-    "Go/21. Select.md",
     "Go/17. Readers.md",
     "Go/16. Errors.md",
     "Go/15. Stringers.md",
@@ -223,9 +227,7 @@
     "Go/4. Arrays.md",
     "Go/2. If statements.md",
     "Go/1. Basics.md",
-    "JS-TS/useState.md",
     "Go",
-    "JS-TS",
-    "Welcome.md"
+    "JS-TS"
   ]
 }
