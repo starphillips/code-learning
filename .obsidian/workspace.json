@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go/11. Methods.md",
+                "file": "Go/17. Readers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Methods"
+              "title": "17. Readers"
             }
           }
         ],
@@ -196,16 +196,18 @@
   },
   "active": "f76e6583703be336",
   "lastOpenFiles": [
+    "Go/18. Type params.md",
+    "Go/19. Go routines.md",
+    "Go/20. Channels.md",
+    "Go/21. Select.md",
+    "Go/1a. Formatting.md",
+    "Go/11. Methods.md",
     "Go/4. Arrays.md",
     "JS-TS/useEffect.md",
     "README.md",
     "Business Analyst.md",
     "JS-TS/useState.md",
     "JS-TS/Basics.md",
-    "Go/21. Select.md",
-    "Go/18. Type params.md",
-    "Go/19. Go routines.md",
-    "Go/20. Channels.md",
     "Go/17. Readers.md",
     "Go/16. Errors.md",
     "Go/15. Stringers.md",
@@ -213,11 +215,9 @@
     "Go/13. Interfaces.md",
     "Go/12. Receivers.md",
     "img/function-syntax.png",
-    "Go/11. Methods.md",
     "img/syntax-differences.png",
     "Go/10. Closure.md",
     "Go/5. Maps.md",
-    "Go/1a. Formatting.md",
     "Go/9. func Values.md",
     "img/formatting.png",
     "img",
