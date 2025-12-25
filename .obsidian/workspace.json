@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/4. Enums and Pattern Matching/Untitled.md",
+                "file": "Rust/Integer Type vs Integer Literal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Integer Type vs Integer Literal"
             }
           },
           {
@@ -185,32 +185,35 @@
   },
   "active": "736954b180ca3217",
   "lastOpenFiles": [
+    "Rust/String Type vs String Literal.md",
+    "README.md",
+    "Rust/Integer Type vs Integer Literal.md",
+    "Rust/2. Ownership/8. Slice Types.md",
+    "Rust/2. Ownership/7. Referencing.md",
+    "Rust/2. Ownership/6. Allocation.md",
+    "Rust/2. Ownership/5. Stacks and Heaps.md",
+    "Rust/2. Ownership/4. Ownership.md",
+    "Rust/1. Basics/3. Functions.md",
+    "Rust/1. Basics/2. Compound Types.md",
+    "Rust/1. Basics/1. Variables.md",
+    "Rust/1. Basics/0. Rust Set Up.md",
+    "Rust/Modules/Modules.md",
+    "Rust/4. Enums and Pattern Matching/Enums.md",
+    "Rust/Modules",
     "Rust/3. Structs/1. Structs.md",
-    "Rust/4. Enums and Pattern Matching/Untitled.md",
     "Rust/3. Structs/2. Structs vs Tuple.md",
     "Rust/3. Structs/3. Methods.md",
-    "Rust/1. Basics/0. Rust Set Up.md",
     "Rust/4. Enums and Pattern Matching/Match.md",
     "Rust/4. Enums and Pattern Matching",
     "Rust/3. Structs",
-    "Rust/2. Ownership/8. Slice Types.md",
     "Go/Go Tour/13. Interfaces.md",
     "Go/Go Tour/14. Types.md",
     "Go/Go Tour/15. Stringers.md",
     "Go/Go Tour/16. Errors.md",
     "Go/Go Tour/12. Receivers.md",
     "Go/Go Tour/11. Methods.md",
-    "Rust/Integer Type vs Integer Literal.md",
-    "Rust/String Type vs String Literal.md",
-    "Rust/1. Basics/1. Variables.md",
-    "Rust/2. Ownership/6. Allocation.md",
-    "Rust/2. Ownership/7. Referencing.md",
-    "Rust/2. Ownership/4. Ownership.md",
-    "Rust/2. Ownership/5. Stacks and Heaps.md",
     "Rust/2. Ownership",
-    "Rust/1. Basics/3. Functions.md",
     "Rust/1. Basics",
-    "Rust/1. Basics/2. Compound Types.md",
     "img/code-example-11.png",
     "img/heap.png",
     "img/code-example-12.png",
@@ -223,13 +226,10 @@
     "img/code-example-8.png",
     "img/code-example-7.png",
     "coords.md",
-    "README.md",
-    "Welcome.md",
     "Rust",
     "Go/Exercism",
     "Go/Go Tour",
     "Pseudo/Untitled",
-    "Pseudo",
-    "img"
+    "Pseudo"
   ]
 }
